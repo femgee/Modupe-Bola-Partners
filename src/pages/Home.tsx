@@ -6,9 +6,9 @@ interface HomeProps {
 
 export default function Home({ setCurrentPage }: HomeProps) {
   const stats = [
-    { icon: TrendingUp, label: 'Years of Excellence', value: '50+' },
-    { icon: Award, label: 'Cases Won', value: '2,500+' },
-    { icon: Users, label: 'Expert Attorneys', value: '45+' },
+    { icon: TrendingUp, label: 'Years of Excellence', value: '10+' },
+    { icon: Award, label: 'Cases Won', value: '1000+' },
+    { icon: Users, label: 'Expert Attorneys', value: '2+' },
     { icon: Shield, label: 'Client Satisfaction', value: '98%' },
   ];
 
@@ -95,8 +95,9 @@ export default function Home({ setCurrentPage }: HomeProps) {
             Why Choose Modupe-Bola & Partners?
           </h2>
           <p className="text-xl text-slate-600 max-w-3xl mx-auto mb-16 leading-relaxed">
-            Experience, expertise, and a proven track record of success. We don't just practice law—
-            we build lasting relationships and deliver results that matter.
+            A husband-and-wife legal team brings unmatched trust and synergy to every case. Their personal 
+            bond translates into professional harmony-offering clients seamless communication, a unified approach, and 
+            an unwavering commitment to excellence.
           </p>
 
           <div className="grid md:grid-cols-3 gap-8">
