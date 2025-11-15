@@ -51,7 +51,7 @@ export default function Footer({ setCurrentPage }: FooterProps) {
               </li>
               <li>
                 <button onClick={() => handleNavClick('expertise')} className="text-sm hover:text-amber-500 transition-colors">
-                  Expertise
+                  Practice Areas
                 </button>
               </li>
               <li>
