@@ -4,7 +4,7 @@ export default function About() {
   const stats = [
     { label: 'Years of Excellence', value: '10+' },
     { label: 'Cases Won', value: '1000+' },
-    { label: 'Expert Attorneys', value: '5+' },
+    { label: 'Expert Attorneys', value: '2+' },
     { label: 'Client Satisfaction', value: '98%' },
   ];
 
@@ -70,19 +70,28 @@ export default function About() {
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-lg">
                 <p>
-                  Established in the early 2000, Modupe-Bola & Partners has built a reputation as one of the most
-                  respected law firms in the nation. Our founders believed that exceptional legal
-                  representation should combine rigorous analysis with compassionate client service.
+                  At Modupe-Bola & Partners, we are a husband-and-wife legal team dedicated to 
+                  delivering exceptional legal counsel with integrity, precision, and personalized attention. 
+                  Our practice is built upon a foundation of mutual respect, professional synergy, 
+                  and a shared commitment to advocating for our clients’ best interests.
                 </p>
                 <p>
-                  Over a decade, we've grown from a small partnership into a full-service firm with
-                  attorneys specializing in diverse practice areas. Our team has successfully handled
-                  over tons of cases, from complex corporate matters to sensitive family law disputes.
+                  With a combined breadth of experience across diverse areas of law, 
+                  we offer a collaborative approach that leverages our complementary strengths. 
+                  This partnership enables us to provide well-rounded legal solutions, strategic insight, 
+                  and consistent representation throughout every stage of your legal matter.
                 </p>
                 <p>
-                  Today, we continue to uphold our founding principles while embracing innovation and
-                  modern legal strategies. Our commitment remains unchanged: to deliver results that
-                  exceed expectations while maintaining the highest ethical standards.
+                  We understand that legal issues often carry significant personal and financial weight. 
+                  That is why we prioritize clear communication, transparency, and responsiveness—ensuring 
+                  our clients feel informed, supported, and empowered. Whether navigating complex litigation, 
+                  drafting critical agreements, or resolving sensitive family matters, 
+                  we approach each case with diligence, discretion, and care.
+                </p>
+                <p>
+                  Our clients benefit from the continuity and cohesion of working directly with the same trusted 
+                  professionals from consultation to resolution. We take pride in cultivating long-term 
+                  relationships grounded in trust, professionalism, and results.
                 </p>
               </div>
             </div>
