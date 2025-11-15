@@ -40,8 +40,7 @@ export default function Home({ setCurrentPage }: HomeProps) {
           </h1>
 
           <p className="text-xl md:text-2xl text-slate-300 max-w-3xl mx-auto leading-relaxed mb-12">
-            Trusted legal counsel with five decades of excellence.
-            We deliver results that matter through dedication, expertise, and unwavering commitment to justice.
+            "When your lawyers trust each other implicitly, you can trust them completely".
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-20">
@@ -105,9 +104,10 @@ export default function Home({ setCurrentPage }: HomeProps) {
               <div className="bg-amber-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-6">
                 <Award className="h-8 w-8 text-amber-600" />
               </div>
-              <h3 className="text-2xl font-bold text-slate-900 mb-4">Proven Results</h3>
+              <h3 className="text-2xl font-bold text-slate-900 mb-4">Two minds, One Mission</h3>
               <p className="text-slate-600 leading-relaxed">
-                98% client satisfaction with over 2,500 successful case outcomes spanning five decades
+                With a complementary strenghts and perspectives, husband-and-wife team offers a dynamic blend of legal insights. Whether it is litigation strategy or contract negotiation, 
+                their collaborative approach ensures every angle is considered.
               </p>
             </div>
 
@@ -115,9 +115,10 @@ export default function Home({ setCurrentPage }: HomeProps) {
               <div className="bg-amber-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-6">
                 <Users className="h-8 w-8 text-amber-600" />
               </div>
-              <h3 className="text-2xl font-bold text-slate-900 mb-4">Expert Team</h3>
+              <h3 className="text-2xl font-bold text-slate-900 mb-4">Personalized, Family-Centered Service.</h3>
               <p className="text-slate-600 leading-relaxed">
-                45+ attorneys with specialized knowledge across multiple practice areas and industries
+                Expect warm, attentive service. Decisions are made with empathy and clarity. Cases are handled with 
+                with emotional weight behind legal issues-especiallyin family law, estate planning, and small & large business disputes.
               </p>
             </div>
 
@@ -125,9 +126,9 @@ export default function Home({ setCurrentPage }: HomeProps) {
               <div className="bg-amber-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-6">
                 <Shield className="h-8 w-8 text-amber-600" />
               </div>
-              <h3 className="text-2xl font-bold text-slate-900 mb-4">Personal Service</h3>
+              <h3 className="text-2xl font-bold text-slate-900 mb-4">Stability You Can Count On.</h3>
               <p className="text-slate-600 leading-relaxed">
-                Direct access to senior partners and personalized attention to your unique legal needs
+                No handoffs. No surprises. We’re committed to building lasting relationships rooted in trust and consistency. Every interaction is personal, and we go above and beyond—even long after the case is closed. 
               </p>
             </div>
           </div>
