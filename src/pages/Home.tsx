@@ -1,4 +1,5 @@
 import { Scale, ArrowRight, Award, Users, TrendingUp, Shield } from 'lucide-react';
+import lawJusticeImage from '../assets/Law and Justice.jpg';
 
 interface HomeProps {
   setCurrentPage: (page: 'about' | 'people' | 'expertise' | 'contact') => void;
@@ -23,7 +24,7 @@ export default function Home({ setCurrentPage }: HomeProps) {
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: 'url(https://images.pexels.com/photos/8730568/pexels-photo-8730568.jpeg?auto=compress&cs=tinysrgb&w=1200)'
+            backgroundImage: `url(${lawJusticeImage})`
           }}
         />
         <div className="absolute inset-0 bg-gradient-to-br from-slate-900/70 via-slate-900/60 to-slate-800/70"></div>
@@ -40,7 +41,7 @@ export default function Home({ setCurrentPage }: HomeProps) {
           </h1>
 
           <p className="text-xl md:text-2xl text-slate-300 max-w-3xl mx-auto leading-relaxed mb-12">
-            "When your lawyers trust each other implicitly, you can trust them completely".
+             “When your lawyers trust each other implicitly, you can trust them completely".
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-20">
@@ -95,20 +96,16 @@ export default function Home({ setCurrentPage }: HomeProps) {
             Why Choose Modupe-Bola & Partners?
           </h2>
           <p className="text-xl text-slate-600 max-w-3xl mx-auto mb-16 leading-relaxed">
-            A husband-and-wife legal team brings unmatched trust and synergy to every case. Their personal 
-            bond translates into professional harmony-offering clients seamless communication, a unified approach, and 
-            an unwavering commitment to excellence.
-          </p>
-
+           A husband-and-wife legal team brings a rare level of trust and synergy to their practice. Their personal bond translates into professional cohesion—clients benefit from a unified front, seamless communication, and a shared commitment to excellence.
+    </p>
           <div className="grid md:grid-cols-3 gap-8">
             <div className="bg-slate-50 rounded-xl p-8 border-2 border-slate-200 hover:border-amber-500 transition-all hover:shadow-lg">
               <div className="bg-amber-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-6">
                 <Award className="h-8 w-8 text-amber-600" />
               </div>
-              <h3 className="text-2xl font-bold text-slate-900 mb-4">Two minds, One Mission</h3>
+              <h3 className="text-2xl font-bold text-slate-900 mb-4">Two Minds, One Mission</h3>
               <p className="text-slate-600 leading-relaxed">
-                With a complementary strenghts and perspectives, husband-and-wife team offers a dynamic blend of legal insights. Whether it is litigation strategy or contract negotiation, 
-                their collaborative approach ensures every angle is considered.
+               With a complementary strenghts and perspectives, husband-and-wife team offers a dynamic blend of legal insights. Whether it is litigation strategy or contract negotiation, their collaborative approach ensures every angle is considered.
               </p>
             </div>
 
@@ -116,10 +113,9 @@ export default function Home({ setCurrentPage }: HomeProps) {
               <div className="bg-amber-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-6">
                 <Users className="h-8 w-8 text-amber-600" />
               </div>
-              <h3 className="text-2xl font-bold text-slate-900 mb-4">Personalized, Family-Centered Service.</h3>
+              <h3 className="text-2xl font-bold text-slate-900 mb-4">Personalized, Family-Centered Servic</h3>
               <p className="text-slate-600 leading-relaxed">
-                Expect warm, attentive service. Decisions are made with empathy and clarity. Cases are handled with 
-                with emotional weight behind legal issues-especiallyin family law, estate planning, and small & large business disputes.
+                Clients often say working with a husband-and-wife firm feels like joining a family. You’re not just another case—you’re a relationship they’re invested in.
               </p>
             </div>
 
@@ -129,7 +125,7 @@ export default function Home({ setCurrentPage }: HomeProps) {
               </div>
               <h3 className="text-2xl font-bold text-slate-900 mb-4">Stability You Can Count On.</h3>
               <p className="text-slate-600 leading-relaxed">
-                No handoffs. No surprises. We’re committed to building lasting relationships rooted in trust and consistency. Every interaction is personal, and we go above and beyond—even long after the case is closed. 
+      No handsoffs. No surprises. Long-term relationships build on consistency, Their repuation is personal-so they go the extra mile.
               </p>
             </div>
           </div>
