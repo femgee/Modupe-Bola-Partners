@@ -153,19 +153,19 @@ export default function About() {
             <div className="bg-slate-800 border border-slate-700 rounded-lg p-6">
               <h3 className="text-lg font-semibold text-amber-500 mb-2">Proven Results</h3>
               <p className="text-slate-300 text-sm">
-                98% client satisfaction with thousands of successful case outcomes
+                98% client satisfaction with thousands of successful case outcomes.
               </p>
             </div>
             <div className="bg-slate-800 border border-slate-700 rounded-lg p-6">
               <h3 className="text-lg font-semibold text-amber-500 mb-2">Expert Team</h3>
               <p className="text-slate-300 text-sm">
-                Attorneys with specialized knowledge across multiple practice areas
+                Attorneys with specialized knowledge across multiple practice areas.
               </p>
             </div>
             <div className="bg-slate-800 border border-slate-700 rounded-lg p-6">
               <h3 className="text-lg font-semibold text-amber-500 mb-2">Personal Service</h3>
               <p className="text-slate-300 text-sm">
-                Direct access to senior partners and personalized attention to your case
+                Direct access to senior partners and personalized attention to your case.
               </p>
             </div>
           </div>
