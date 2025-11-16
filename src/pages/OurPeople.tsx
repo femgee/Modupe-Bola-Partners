@@ -6,7 +6,7 @@ export default function OurPeople() {
       name: 'Bola Balogun',
       title: 'Senior Partner',
       expertise: 'Corporate Law & Mergers',
-      bio: 'With over 10 years of experience, Jonathan has led some of the most complex corporate transactions in the industry. His strategic vision has guided the firm to become a leader in corporate law.',
+      bio: 'With over 10 years of experience, Bola has led some of the most complex corporate transactions in the industry. His strategic vision has guided the firm to become a leader in corporate law.',
       education: 'Nigeria Law School, NBA',
       email: 'B.Balogung@modupe-bola.com',
       image: 'https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?auto=compress&cs=tinysrgb&w=400',
