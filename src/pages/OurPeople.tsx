@@ -1,4 +1,6 @@
 import { Mail, Linkedin } from 'lucide-react';
+import bolaImage from '../assets/black lawyer copy.jpg';
+import modupeImage from '../assets/lady lawyer.jpg';
 
 export default function OurPeople() {
   const partners = [
@@ -6,10 +8,10 @@ export default function OurPeople() {
       name: 'Bola Balogun',
       title: 'Senior Partner',
       expertise: 'Corporate Law & Mergers',
-      bio: 'With over 10 years of experience, Bola has led some of the most complex corporate transactions in the industry. His strategic vision has guided the firm to become a leader in corporate law.',
+      bio: 'With over 10 years of experience, Jonathan has led some of the most complex corporate transactions in the industry. His strategic vision has guided the firm to become a leader in corporate law.',
       education: 'Nigeria Law School, NBA',
       email: 'B.Balogung@modupe-bola.com',
-      image: 'https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: bolaImage,
     },
     {
       name: 'Modupe Balogun',
@@ -18,7 +20,7 @@ export default function OurPeople() {
       bio: 'Modupe specializes in patent law and trademark protection, helping innovators and companies protect their most valuable assets. She has successfully argued before federal courts nationwide.',
       education: 'Nigeria Law School, JD',
       email: 'Dupe@modupe-bola.com',
-      image: 'https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: modupeImage,
     },
    
   ];
