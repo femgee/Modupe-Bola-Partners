@@ -229,7 +229,7 @@ export default function Contact() {
                           value={formData.email}
                           onChange={handleChange}
                           className="w-full px-4 py-3 border-2 border-slate-300 rounded-lg focus:ring-2 focus:ring-amber-500 focus:border-amber-500 outline-none transition-all"
-                          placeholder="Please enter your email"
+                          placeholder="enter your email"
                         />
                       </div>
                     </div>
@@ -247,7 +247,7 @@ export default function Contact() {
                           value={formData.phone}
                           onChange={handleChange}
                           className="w-full px-4 py-3 border-2 border-slate-300 rounded-lg focus:ring-2 focus:ring-amber-500 focus:border-amber-500 outline-none transition-all"
-                          placeholder="Please your contact number"
+                          placeholder="Insert your valid number"
                         />
                       </div>
                       <div>
