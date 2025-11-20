@@ -92,7 +92,7 @@ export default function Footer({ setCurrentPage }: FooterProps) {
 
         <div className="border-t border-slate-800 mt-8 pt-8 text-center">
           <p className="text-sm">
-            &copy; {new Date().getFullYear()} Modupe-BolaBalogun & Partners. All rights reserved.
+            &copy; {new Date().getFullYear()} Modupe-Bola Balogun & Partners. All rights reserved.
           </p>
         </div>
       </div>
