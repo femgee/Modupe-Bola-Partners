@@ -159,8 +159,8 @@ export default function Contact() {
     {
       icon: MapPin,
       title: 'Office',
-      content: 'SW9/320ad Orita Ikereku',
-      subContent: 'Odo Ona Elewe, Ibadan',
+      content: 'SW9/320A, Ile Lawyer, along Odo Ona Elewe Road',
+      subContent: 'Orita Challenge, Ibadan, Oyo State',
     },
     {
       icon: Clock,

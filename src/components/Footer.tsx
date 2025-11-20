@@ -84,7 +84,7 @@ export default function Footer({ setCurrentPage }: FooterProps) {
               </li>
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 text-amber-500 mr-2 flex-shrink-0 mt-0.5" />
-                <span className="text-sm">SW9/320A, Ile Lawyer, along Odo Ona Elewe Raod, Orita Cahllenge<br /> Ibadan , Oyo State</span>
+                <span className="text-sm">SW9/320A, Ile Lawyer, along Odo Ona Elewe Road, Orita Challenge<br /> Ibadan , Oyo State</span>
               </li>
             </ul>
           </div>
