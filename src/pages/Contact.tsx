@@ -135,20 +135,25 @@ export default function Contact() {
     {
       icon: Phone,
       title: 'Phone',
-      content: '+234 (703) 090-8565',
-      subContent: 'Mon-Fri from 9am to 6pm',
-    },
-
-    {
-      icon: Phone,
-      title: 'Phone',
-      content: '+234 (805) 458 4008',
-      subContent: 'Mon-Fri from 9am to 6pm',
+      content: '+234 (081) 216 87698',
+      subContent: 'Mon-Fri from 8am to 5pm',
     },
     {
       icon: Mail,
       title: 'Email',
-      content: 'contact@modupebola.com',
+      content: 'oyebolabalogun20@gmail.com',
+      subContent: 'We respond within 24 hours',
+    },
+    {
+      icon: Phone,
+      title: 'Phone',
+      content: '+234 (805) 458 4008',
+      subContent: 'Mon-Fri from 8am to 5pm',
+    },
+    {
+      icon: Mail,
+      title: 'Email',
+      content: 'dupsylaw2002@yahoo.com',
       subContent: 'We respond within 24 hours',
     },
     {
