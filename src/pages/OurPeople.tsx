@@ -5,21 +5,23 @@ import modupeImage from '../assets/lady lawyer.jpg';
 export default function OurPeople() {
   const partners = [
     {
-      name: 'Bola Balogun',
-      title: 'Senior Partner',
-      expertise: 'Corporate Law & Mergers',
+      name: 'Oyebola A. Balogun',
+      title: 'Partner',
+      expertise: 'Media and Entertainment Law, Hotel and Hospitality, Maritime Law, Energy Law, Civil and Criminal Mitigation',
       bio: 'With over 10 years of experience, Jonathan has led some of the most complex corporate transactions in the industry. His strategic vision has guided the firm to become a leader in corporate law.',
-      education: 'Nigeria Law School, NBA',
-      email: 'B.Balogung@modupe-bola.com',
+      education: 'Nigeria Law School',
+      email: 'B.Balogung@modupe-bola.comoyebaolbalogun20@gmail.com',
+      tel_no:'08121687698',
       image: bolaImage,
     },
     {
       name: 'Modupe Balogun',
-      title: 'Senior Partner',
-      expertise: 'Intellectual Property',
+      title: 'Partner',
+      expertise: 'Corporate and Business Law, Property Law, Intellectual and Immigration Law, Energy Law',
       bio: 'Modupe specializes in patent law and trademark protection, helping innovators and companies protect their most valuable assets. She has successfully argued before federal courts nationwide.',
-      education: 'Nigeria Law School, JD',
-      email: 'Dupe@modupe-bola.com',
+      education: 'Nigeria Law School,',
+      email: 'dupsylaw2002@yahoo.com',
+      Tel_No: '08054584008',
       image: modupeImage,
     },
    
