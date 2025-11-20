@@ -110,7 +110,7 @@ export default function OurPeople() {
             If you're passionate about the law and committed to excellence, we'd love to hear from you.
           </p>
           <a
-            href="mailto:careers@modupebola.com"
+            href="mailto:dupsylaw2002@yahoo.com"
             className="inline-block bg-amber-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-amber-700 transition-colors"
           >
             View Career Opportunities
