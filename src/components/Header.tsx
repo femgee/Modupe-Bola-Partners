@@ -38,7 +38,7 @@ export default function Header({ currentPage, setCurrentPage }: HeaderProps) {
             </div>
             <div className="ml-3">
               <span className="text-xl font-bold text-white tracking-tight">
-                Modupe-Bola & Partners
+                Modupe-Bola Balogun & Partners
               </span>
             </div>
           </div>
