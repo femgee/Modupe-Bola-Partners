@@ -111,7 +111,6 @@ export default function OurPeople() {
           </p>
           <a
             href="mailto:dupsylaw2002@yahoo.com"
-            href="mailto:oyebolabalogun20@gmail.com"
             className="inline-block bg-amber-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-amber-700 transition-colors"
           >
             View Career Opportunities
