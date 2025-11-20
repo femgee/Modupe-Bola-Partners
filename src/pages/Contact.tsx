@@ -284,14 +284,18 @@ export default function Contact() {
                         className="w-full px-4 py-3 border-2 border-slate-300 rounded-lg focus:ring-2 focus:ring-amber-500 focus:border-amber-500 outline-none transition-all bg-white"
                       >
                         <option value="">Select a practice area</option>
-                        <option value="corporate">Corporate Law</option>
-                        <option value="litigation">Litigation</option>
-                        <option value="ip">Intellectual Property</option>
-                        <option value="realestate">Real Estate</option>
-                        <option value="employment">Employment Law</option>
-                        <option value="family">Family Law</option>
-                        <option value="tax">Tax Law</option>
-                        <option value="estate">Estate Planning</option>
+                        <option value="corporate">Corporate & Business Law</option>
+                        <option value="litigation">Property Law</option>
+                        <option value="ip">Intellectual & Patent Laws</option>
+                        <option value="realestate">Family Law</option>
+                        <option value="employment">Civil & Criminal</option>
+                        <option value="family">Immigration Law</option>
+                        <option value="tax">Energy Law</option>
+                        <option value="estate">Media & Entertainment Law</option>
+                        <option value="estate">Hotel and Hospitality</option>
+                        <option value="estate">Maritime Law</option>
+                        <option value="estate">Energy Law</option>
+                        <option value="estate">Civil & Criminal Litigation</option>
                         <option value="other">Other</option>
                       </select>
                     </div>
