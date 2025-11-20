@@ -22,7 +22,7 @@ export default function Footer({ setCurrentPage }: FooterProps) {
                 <Scale className="h-6 w-6 text-white" />
               </div>
               <div className="ml-3">
-                <span className="text-lg font-bold text-white">Modupe-Bola & Partners</span>
+                <span className="text-lg font-bold text-white">Modupe-Bola Balogun & Partners</span>
               </div>
             </div>
             <p className="text-sm leading-relaxed mt-4">
@@ -67,7 +67,7 @@ export default function Footer({ setCurrentPage }: FooterProps) {
             <ul className="space-y-3">
               <li className="flex items-start">
                 <Phone className="h-5 w-5 text-amber-500 mr-2 flex-shrink-0 mt-0.5" />
-                <span className="text-sm">+234 (703) 090-8565</span>
+                <span className="text-sm">+234 (081) 216 87698</span>
               </li>
 
                  <li className="flex items-start">
@@ -76,11 +76,15 @@ export default function Footer({ setCurrentPage }: FooterProps) {
               </li>
               <li className="flex items-start">
                 <Mail className="h-5 w-5 text-amber-500 mr-2 flex-shrink-0 mt-0.5" />
-                <span className="text-sm">modupe-bola.com</span>
+                <span className="text-sm">oyebolabalogun20@gmail.com</span>
+              </li>
+              <li className="flex items-start">
+                <Mail className="h-5 w-5 text-amber-500 mr-2 flex-shrink-0 mt-0.5" />
+                <span className="text-sm">dupsylaw2002@yahoo.com</span>
               </li>
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 text-amber-500 mr-2 flex-shrink-0 mt-0.5" />
-                <span className="text-sm">SW9/320ad, Orita Ikereku<br />Odo Ona Eelewe, Ibadan</span>
+                <span className="text-sm">SW9/320A, Ile Lawyer, along Odo Ona Elewe Raod, Orita Cahllenge<br /> Ibadan , Oyo State</span>
               </li>
             </ul>
           </div>
@@ -88,7 +92,7 @@ export default function Footer({ setCurrentPage }: FooterProps) {
 
         <div className="border-t border-slate-800 mt-8 pt-8 text-center">
           <p className="text-sm">
-            &copy; {new Date().getFullYear()} Modupe-Bola & Partners. All rights reserved.
+            &copy; {new Date().getFullYear()} Modupe-BolaBalogun & Partners. All rights reserved.
           </p>
         </div>
       </div>
