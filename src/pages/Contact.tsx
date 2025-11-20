@@ -133,6 +133,7 @@ export default function Contact() {
 
   const contactInfo = [
     {
+      Name: Oyebola Balogun, 
       icon: Phone,
       title: 'Phone',
       content: '+234 (703) 090-8565',
